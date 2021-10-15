@@ -9,7 +9,7 @@
       <br>
   - 👨‍💻 I am a 3rd Year undergraduate in Computer Engineer from Universidade Anhembi-Morumbi, SP-Brazil.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
       <br>
-  - A budding Software Developer and a Pentester Mobile Android Enthusiast...(ps.: I'm learning Cyber Security) <img src="https://www.esds.co.in/blog/wp-content/uploads/2018/12/ACF-2018-03Mar-Cyber_Safety__Security-860x418.gif" width="60px">
+  - A budding Software Developer and a Pentester Mobile Android Enthusiast(Cyber Security)<img src="https://www.esds.co.in/blog/wp-content/uploads/2018/12/ACF-2018-03Mar-Cyber_Safety__Security-860x418.gif" width="50px">
       </em>  
 </p>
 
