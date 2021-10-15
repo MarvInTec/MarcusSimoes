@@ -1,6 +1,5 @@
-<h1 align="center">Hello World! I am Marcus Simões, Developer Jr Cross Platform Apps👋
-  </h1>
-- 🌱 I’m currently learning Graduate in Computer Engineer with languages JavaScript, React Native, Dart and Flutter. - 
+<h1 align="center">Hello! I am Marcus Simões, Dev. Jr. Cross Platform Apps👋</h1>
+- 🌱 I’m currently studing Degree in Computer Engineer and learning JavaScript, React Native, Dart and Flutter. - 
 <br>
 <div align="center">
   <a href="https://github.com/MarvInTec">
