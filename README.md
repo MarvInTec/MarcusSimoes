@@ -48,9 +48,9 @@
   <br>
   <br>
 
-  <div>
+<!--   <div>
     ![Snake animation](https://github.com/MarvInTec/MarcusSimoes/blob/output/github-contribution-grid-snake.svg)
-  </div>
+  </div> -->
 
 
   <!--   <div> 
@@ -62,8 +62,8 @@
       <a href="https://twitter.com/MARCUSV42980256" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div> -->
 
-  <!-- <div>
+  <div>
 
-  ![Dino](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif)
+  ![Dino](https://https://github.com/MarvInTec/MarcusSimoes/blob/master/Assets/dino.gif)
 
-    </div> -->
+    </div>
