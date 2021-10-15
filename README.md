@@ -37,17 +37,31 @@
     <img align="center" alt="MarvInTec-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="MarvInTec-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" >
     <img align="right" alt="" height="200" src="https://c.tenor.com/hiR35OCAorcAAAAi/mario-luigi.gif" >
+  </div>
     <br>
 
-  # Connect with me
-  <img src="https://github.com/MarvInTec/MarcusSimoes/blob/master/Assets/Handshake.gif" height="32px">
-  | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/marcusviniciussimoes) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/MARCUSV42980256) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/marcus_simoes86/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="36">](https://github.com/MarvInTec/MarcusSimoes/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="32">](https://pt.stackoverflow.com/users/242631/marvintec) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="45">](https://medium.com/@marcussimoes86) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:marcussimoes86@gmail.com)
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-  <br>
-  <br>
+
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+
+<br>
+<br>
 
     
-
+   </div>
   
-  ![Snake animation](https://github.com/MarvInTec/MarcusSimoes/blob/output/github-contribution-grid-snake.svg)
-  </div>
+<div>
+  
+    ![Snake animation](https://github.com/MarvInTec/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+
+<!--     ![Dino](https://https://github.com/MarvInTec/MarcusSimoes/blob/master/Assets/dino.gif) -->
+
+
