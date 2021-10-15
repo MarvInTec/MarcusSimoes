@@ -1,9 +1,12 @@
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200" />
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
   <p>
     <em>
   - I am Marcus Simões, Developer Cross Platform -
+      <br>
   - 👨‍💻 I am a 3rd Year undergraduate in Computer Engineer from Universidade Anhembi-Morumbi, São Paulo - Brazil. A budding Software Developer and a Pentester Mobile Android Enthusiast (ps.: I'm learning Cyber Security)!
       </em>  
 </p>
@@ -41,22 +44,14 @@
   # Connect with me
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-    <div>
-
 
   | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/marcusviniciussimoes) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/MARCUSV42980256) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/marcus_simoes86/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/MarvInTec/MarcusSimoes/) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://pt.stackoverflow.com/users/242631/marvintec) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@marcussimoes86) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:marcussimoes86@gmail.com)
-  |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-
-
 
   <br>
   <br>
 
 
-    </div>
-
-
-    <div>
+  <div>
 
     ![Snake animation](https://github.com/MarvInTec/MarcusSimoes/blob/output/github-contribution-grid-snake.svg)
 
