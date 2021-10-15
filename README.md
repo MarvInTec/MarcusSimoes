@@ -29,8 +29,7 @@
   
   ##
 
-# My Contacts <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="23px">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+# Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="23px">
   
   
   <div> 
@@ -41,10 +40,31 @@
  <a href="https://discord.gg/MarVinTec#5237" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     <a href="https://twitter.com/MARCUSV42980256" target="_blank"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
-  
-  
   <div>
+  # Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+
+
+
+| [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://in.linkedin.com/in/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/thedudethatcode/)| [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/TheDudeThatCode) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/) | [<img src="https://cdn.svgporn.com/logos/stackoverflow-icon.svg" alt="Stackoverflow Logo" width="28">](https://stackoverflow.com/users/13944080/thedudethatcode) | [<img src="https://cdn.svgporn.com/logos/medium.svg" alt="Medium Logo" width="30">](https://medium.com/@shubhamdeepjha) | [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:thedudethatcode@gmail.com)
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+
+
+
+<br>
+<br>
+
+
+  </div>
+
+
+<div>
+  
+![Dino](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif)
+    
+  </div>
+  
+<!--   <div>
  
   ![Snake animation](https://github.com/MarvInTec/MarcusSimoes/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div> -->
