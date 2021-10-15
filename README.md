@@ -7,9 +7,9 @@
     <em>
   - I am Marcus Simões, Developer Cross Platform -
       <br>
-  - 👨‍💻 I am a 3rd Year undergraduate in Computer Engineer from Universidade Anhembi-Morumbi, SP-Brazil.
+  - 👨‍💻 I am a 3rd Year undergraduate in Computer Engineer from Universidade Anhembi-Morumbi, SP-Brazil.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
       <br>
-  - A budding Software Developer and a Pentester Mobile Android Enthusiast...(ps.: I'm learning Cyber Security)!
+  - A budding Software Developer and a Pentester Mobile Android Enthusiast...(ps.: I'm learning Cyber Security) <img src="https://www.esds.co.in/blog/wp-content/uploads/2018/12/ACF-2018-03Mar-Cyber_Safety__Security-860x418.gif" width="60px">
       </em>  
 </p>
 
@@ -35,9 +35,9 @@
     <img align="center" alt="MarvInTec-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">  
     <img align="center" alt="MarvInTec-mongodb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="MarvInTec-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" >
-    <img align="right" alt="" height="200" src="https://c.tenor.com/hiR35OCAorcAAAAi/mario-luigi.gif" >
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+    <img align="right" alt="" height="185" src="https://c.tenor.com/hiR35OCAorcAAAAi/mario-luigi.gif" >
   </div>
+    <br>
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:| |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
     <br>
 
