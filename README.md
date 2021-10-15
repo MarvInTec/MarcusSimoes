@@ -1,7 +1,14 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp; I am Marcus Simões, Developer Cross Platform App<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="36px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-  - 🌱 I’m currently studing Degree in Computer Engineer! Too, I'm learning Cyber Security and Pentest Mobile Android - 
+
+  <p>
+    <em>
+  - I am Marcus Simões, Developer Cross Platform -
+  - 👨‍💻 I am a 3rd Year undergraduate in Computer Engineer from Universidade Anhembi-Morumbi, São Paulo - Brazil. A budding Software Developer and a Pentester Mobile Android Enthusiast (ps.: I'm learning Cyber Security)!
+      </em>  
+</p>
+
+<br>
   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif width="50">
   <br>
   <div align="center">
