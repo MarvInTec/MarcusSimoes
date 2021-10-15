@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! I am Marcus Simões, Developer Cross Platform Apps👋</h1>
 - 🌱 I’m currently studing Degree in Computer Engineer! Too, I'm learning Cyber Security and Pentest Mobile Android - 
-- <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif width="50">
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif width="50">
 <br>
 <div align="center">
   <a href="https://github.com/MarvInTec">
