@@ -1,4 +1,5 @@
-<h1 align="center">Olá, eu sou o Marcus Simões, Desenvolvedor de Aplicativos Cross Plataform 👋<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif width="50"></h1>
+<h1 align="center">Olá, eu sou o Marcus Simões, Desenvolvedor de Aplicativos Cross Platform 👋 <br>
+  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif width="50"></h1>
 <br>
 - 🌱 I’m currently development JS, React Native, Dart and Flutter. - 
 <br>
