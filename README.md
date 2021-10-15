@@ -1,7 +1,6 @@
-<h1 align="center">Olá, eu sou o Marcus Simões, Desenvolvedor de Aplicativos Cross Platform 👋 <br>
+<h1 align="center">Hello World! I am Marcus Simões, Developer Jr Cross Platform Apps👋
   <img align="right" alt="" height="200" src="https://c.tenor.com/hiR35OCAorcAAAAi/mario-luigi.gif" ></h1>
-<br>
-- 🌱 I’m currently development JS, React Native, Dart and Flutter. - 
+- 🌱 I’m currently learning Graduate in Computer Engineer with languages JavaScript, React Native, Dart and Flutter. - 
 <br>
 <div align="center">
   <a href="https://github.com/MarvInTec">
@@ -25,9 +24,12 @@
   <img align="center" alt="MarvInTec-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" >
   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif width="50">
 </div>
+  <br>
   
   
-  #Contact me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+  ##
+
+# Contact me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
   
   <div> 
   <a href = "mailto:marcussimoes86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
