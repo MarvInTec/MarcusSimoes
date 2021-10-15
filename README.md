@@ -7,8 +7,9 @@
     <em>
   - I am Marcus Simões, Developer Cross Platform -
       <br>
-  - 👨‍💻 I am a 3rd Year undergraduate in Computer Engineer from Universidade Anhembi-Morumbi, SP-Brazil. 
-      - A budding Software Developer and a Pentester Mobile Android Enthusiast...(ps.: I'm learning Cyber Security)!
+  - 👨‍💻 I am a 3rd Year undergraduate in Computer Engineer from Universidade Anhembi-Morumbi, SP-Brazil.
+      <br>
+  - A budding Software Developer and a Pentester Mobile Android Enthusiast...(ps.: I'm learning Cyber Security)!
       </em>  
 </p>
 
