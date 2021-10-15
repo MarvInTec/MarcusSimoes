@@ -1,4 +1,6 @@
-  <h1 align="center">Hello World! I am Marcus Simões, Developer Cross Platform Apps👋</h1>
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp; I am Marcus Simões, Developer Cross Platform App<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="36px">
+
   - 🌱 I’m currently studing Degree in Computer Engineer! Too, I'm learning Cyber Security and Pentest Mobile Android - 
   <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif width="50">
   <br>
@@ -31,8 +33,6 @@
 
   # Connect with me
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="36px">
-
 
     <div>
 
