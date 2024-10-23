@@ -7,7 +7,7 @@
     <em>
   - I am Marcus Simões, Computer Engineer -
       <br>
-  - 👨‍💻 I am Graduate in Computer Engineer from Uniamericas Descomplica Universit, SP-Brazil.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+  - 👨‍💻 I am Graduate in Computer Engineer from Uniamericas Descomplica University, SP-Brazil.  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
       <br>
   - A budding Software Developer and a Pentester Mobile Android Enthusiast (Cyber Security)  <img src="https://www.esds.co.in/blog/wp-content/uploads/2018/12/ACF-2018-03Mar-Cyber_Safety__Security-860x418.gif" width="55px">
       </em>  
